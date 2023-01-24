@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.col-lg-4{
+    height: 70px;
+    width: 70px;
+}

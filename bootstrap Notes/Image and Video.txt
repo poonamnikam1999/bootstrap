@@ -1,0 +1,23 @@
+Class for image:
+img-fluid : for responsive image
+rounded
+rounded-top
+rounded-bottom
+rounded-circle
+rounded-pill
+img-thumbnail
+
+figure
+figure-img
+<figcaption class = "figure-caption"></figcaption>
+
+embed-responsive
+Sizes:
+	embed-responsive -21by9
+					 -16by6
+					 -4by3
+					 1by1
+iframe class ="embed-responsive-item"
+
+
+================================================
